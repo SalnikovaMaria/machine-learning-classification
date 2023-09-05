@@ -1,4 +1,4 @@
-# Учебный проект DST Skillfactory "PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle"
+# Учебный проект DST Skillfactory "PROJECT-4" 
 
 ## Оглавление  
 1. Описание проекта
